@@ -1,0 +1,28 @@
+
+<html>
+  <title>
+    Jackson's Adventure part 2
+  </title>
+  <link rel="icon" href="https://www.google.com/search?q=earth+png&newwindow=1&rlz=1CAXEGH_enUS817US817&tbm=isch&source=iu&ictx=1&fir=T6tIdJKbmmgOLM%252C_UvzD3BOfQoCAM%252C_&vet=1&usg=AI4_-kR4uOJ-azl9cE3SHwwB9S_vkPF3og&sa=X&ved=2ahUKEwi37sPOtbztAhUFqJ4KHeQgAacQ9QF6BAgJEAE&biw=1366&bih=768&safe=active&ssui=on#imgrc=T6tIdJKbmmgOLM">
+  <body>
+    <div id="myDiv" name="myDiv" title="choose your choice of chooseyness" style="color: #FF0000; font: Helvetica 12pt;border: 1px solid red;">
+  <h5>choose your choice of chooseyness</h5>
+  <p>congrajulashuns you made it to the next page</p>
+  <p>but you are not done</p>
+</div>
+   
+    <a href="https://www.youtube.com/watch?v=dtER80sOjX4"><button>choice a</button></a> 
+    <a href="https://bobskos.github.io/test/"><button>choice b</button></a>
+     <a href="https://www.youtube.com/watch?v=dtER80sOjX4"><button>choice c</button></a> 
+    <a href="https://bobskos.github.io/adventure3/"><button>choice d</button></a>
+    
+  </body>
+  
+  <style>
+    body {
+      background-color:#000000;
+      text-align:center;
+    }
+  </style>
+  
+</html>
